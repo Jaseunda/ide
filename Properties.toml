@@ -1,0 +1,24 @@
+# Product Branding & Properties Configuration
+# You can customize these properties to rebrand your editor.
+
+[product]
+name = "IDE"
+short_name = "IDE"
+bundle_identifier = "com.notapublicfigureanymore.ide"
+version = "0.1.0"
+authors = ["Not a Public Figure Any More"]
+license = "GPL-3.0-or-later"
+description = "High-performance, debloated code editor with BYOK AI and integrated browser."
+homepage = "https://github.com/Yealin-House/ide"
+
+[features]
+enable_telemetry = false
+enable_zed_account = false
+enable_zed_cloud_llm = false
+enable_byok_ai = true
+enable_embedded_browser = true
+
+[branding]
+# Provide your .icns file path here when ready
+app_icon = "assets/icons/app_icon.icns"
+window_title_suffix = "IDE"

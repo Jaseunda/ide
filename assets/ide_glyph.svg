@@ -1,0 +1,6 @@
+<svg width="384" height="384" viewBox="0 0 384 384" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Top glyph part (gray / 40% opacity) -->
+  <path d="M204 36 C215 36 228 45 228 58 L228 165 L155 218 L84 191.5 C78 187 80 180 86 172 L198 38 C200 36 202 36 204 36 Z" fill="currentColor" fill-opacity="0.4" />
+  <!-- Bottom glyph part (solid / 100% opacity) -->
+  <path d="M180 348 C169 348 156 339 156 326 L156 218 L229 165 L300 192.5 C306 197 304 204 298 212 L186 346 C184 348 182 348 180 348 Z" fill="currentColor" fill-opacity="1.0" />
+</svg>
