@@ -9,7 +9,7 @@ version = "0.1.0"
 authors = ["Not a Public Figure Any More"]
 license = "GPL-3.0-or-later"
 description = "High-performance, debloated code editor with BYOK AI and integrated browser."
-homepage = "https://github.com/Yealin-House/ide"
+homepage = "https://www.notapublicfigureanymore.com/ide"
 
 [features]
 enable_telemetry = false
