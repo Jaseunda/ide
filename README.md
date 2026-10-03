@@ -1,6 +1,6 @@
-# partial
+# Partial
 
-Browser tab and branding assets for the IDE editor.
+Browser tab and branding assets for the [IDE](https://github.com/Yealin-House/IDE) editor.
 
 Copyright (C) 2026 Jaseunda
 
